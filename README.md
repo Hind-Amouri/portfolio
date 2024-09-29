@@ -1,5 +1,5 @@
 # portfolio
-cv
+CV
 # Hind Alammouri - Portfolio
 
 Welcome to my portfolio! I am a **numerical analyst** and **mathematician** currently pursuing my second Master's in **Numerical Analysis and Modeling**. Below, you will find a link to my resume along with some of my key projects and achievements.
@@ -12,4 +12,4 @@ Welcome to my portfolio! I am a **numerical analyst** and **mathematician** curr
 
 ### Contact
 - **Email**: hindmammouri@gmail.com
-- G
+- GitHub: Hind-Amouri
