@@ -6,10 +6,4 @@ Welcome to my portfolio! I am a **numerical analyst** and **mathematician** curr
 
 ## 📄 [Download my CV](https://github.com/Hind-Amouri/Hind-Alammouri-CV/raw/main/Hind_Alammouri_CV.pdf)
 
-### Key Projects
-- **Numerical Modeling in Fluid Dynamics**
-- **Optimization Techniques for PDEs**
 
-### Contact
-- **Email**: hindmammouri@gmail.com
-- GitHub: Hind-Amouri
